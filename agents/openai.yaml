@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare Advisor Materials"
+  short_description: "Prepare versioned code evidence and same-version supplements"
+  default_prompt: "Use $prepare-advisor-materials to prepare the current task's code for its bound advisor."
